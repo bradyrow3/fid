@@ -1,0 +1,52 @@
+@charset "UTF-8"
+ul#link li {
+  font-family: "Roboto";
+  display:inline;
+  text-align: center;
+}
+
+body {
+  background: #D3D3D3;
+  margin: 0 10%;
+  font-family: sans-serif;
+  text-align: center;
+  }
+
+a:link {
+      color: #F08080;
+}
+
+a:visited { 
+    color: #0283C0;
+}
+a:focus, a:hover {
+    color: #FF6347;
+    background-color: #FFFFFF;
+}
+
+h1 {
+  text-align: center;
+  font-family: serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-bottom: 3px solid #F08080;
+  margin-top: 30px;
+}
+
+h2 {
+  text-align: center;
+  color: #F08080;
+}
+
+h3 { 
+   text-align: center;
+}
+   footer {
+     boarder-top: 1px solid #F08080
+     text-align: center;
+     padding-top: 1em;
+     font: 1em;
+}
+
+
+  
